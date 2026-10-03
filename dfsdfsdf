@@ -1,0 +1,20 @@
+[1mNAME[0m
+    __main__.py
+
+[1mSYNOPSIS[0m
+    __main__.py [4mCOMMAND[0m
+
+[1mCOMMANDS[0m
+    [1m[4mCOMMAND[0m[0m is one of the following:
+
+     answer
+
+     answer_dataset
+
+     evaluate
+
+     index
+
+     search
+
+     search_dataset
