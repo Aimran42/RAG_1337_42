@@ -19,7 +19,6 @@ direnv allow  # or source .envrc
 
 ```
 
-
 ## CLI Commands
 
 
